@@ -1,1 +1,2 @@
-# Capstone_Bengkod
+# Capstone Project Mata Kuliah Bengkel Coding
+Nama : M Afif Nuruddin
